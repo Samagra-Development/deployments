@@ -17,3 +17,6 @@
 |   |   |   |
 |   |   |   |
 |   |   |   |
+
+### Setting up
+```wget <file-link> && docker-compose -f *.docker-compose.yml up -d```
